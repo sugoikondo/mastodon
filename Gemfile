@@ -41,7 +41,7 @@ end
 gem 'net-ldap', '~> 0.10'
 gem 'omniauth-cas', '~> 1.1'
 gem 'omniauth-saml', '~> 1.10'
-gem 'omniauth', '~> 1.9'
+gem 'omniauth', '~> 2.0', '>= 2.0.0'
 
 gem 'discard', '~> 1.1'
 gem 'doorkeeper', '~> 5.1'
