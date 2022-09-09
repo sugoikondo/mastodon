@@ -39,7 +39,7 @@ group :pam_authentication, optional: true do
 end
 
 gem 'net-ldap', '~> 0.10'
-gem 'omniauth-cas', '~> 1.1'
+gem 'omniauth-cas', '~> 1.1', '>= 1.1.1'
 gem 'omniauth-saml', '~> 1.10'
 gem 'omniauth', '~> 1.9'
 
