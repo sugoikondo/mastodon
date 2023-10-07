@@ -23,7 +23,7 @@ gem 'paperclip-av-transcoder', '~> 0.6'
 gem 'streamio-ffmpeg', '~> 3.0'
 gem 'blurhash', '~> 0.1'
 
-gem 'active_model_serializers', '~> 0.10'
+gem 'active_model_serializers', '~> 0.10', '>= 0.10.14'
 gem 'addressable', '~> 2.6'
 gem 'bootsnap', '~> 1.4', require: false
 gem 'browser'
